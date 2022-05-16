@@ -11,7 +11,25 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px;
 }
+
+.flower-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 52px;
+}
+
+.flower{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 200px;
+}
+
+
+
 
 /* do not edit this footer */
 .footer {
