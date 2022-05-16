@@ -29,6 +29,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin-left: 10px;
 }
 
 button {
@@ -49,9 +50,16 @@ ul {
   list-style-type: none;
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 .right-side{
   display: flex;
   align-items: center;
+  margin-left: auto;
+  gap: 16px;
+}
+
+.profile-image{
+  margin-right: 10px;
 }
