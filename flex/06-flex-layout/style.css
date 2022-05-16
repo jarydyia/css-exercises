@@ -31,7 +31,8 @@ ul{
   list-style-type: none;
   display: flex;
   gap: 10px;
-  justify-content: space-around;
+  padding: 0;
+  margin: 10px;
 }
 
 a{
@@ -40,4 +41,7 @@ a{
 
 .header{
   display: flex;
+  justify-content: space-between;
 }
+
+
