@@ -69,6 +69,8 @@ a{
 
 .footer{
   text-align: center;
+  height: 40px;
+  padding-top: 10px;
 }
 
 body{
